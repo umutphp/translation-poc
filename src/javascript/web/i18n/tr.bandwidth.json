@@ -1,0 +1,17 @@
+{
+  "locale": "tr",
+  "messages": {
+    "calculator.title": "Bandwidth Hesaplayıcı",
+    "common.bandwidth-calculator": "Bandwidth Hesaplayıcı",
+    "common.calculate": "Hesapla",
+    "label.bandwidth": "Bant Genişliği",
+    "label.bitrate": "Bitrate",
+    "label.codec": "Codec",
+    "label.count": "Sayı",
+    "label.fps": "Fps",
+    "label.motion": "Hareket",
+    "label.profile": "Profil",
+    "label.quality": "Kalite",
+    "label.resolution": "Çözünürlük"
+  }
+}

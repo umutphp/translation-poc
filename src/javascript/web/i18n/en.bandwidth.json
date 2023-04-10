@@ -1,0 +1,17 @@
+{
+  "locale": "en",
+  "messages": {
+    "calculator.title": "Bandwidth Calculator",
+    "common.bandwidth-calculator": "Bandwidth Calculator",
+    "common.calculate": "Calculate",
+    "label.bandwidth": "Bandwidth",
+    "label.bitrate": "Bitrate",
+    "label.codec": "Codec",
+    "label.count": "Count",
+    "label.fps": "Fps",
+    "label.motion": "Motion",
+    "label.profile": "Profile",
+    "label.quality": "Quality",
+    "label.resolution": "Resolution"
+  }
+}
